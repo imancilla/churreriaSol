@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+.menu {display: none}
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/assets/img/churritos.jpg");
+    min-height: 90%;
+}
