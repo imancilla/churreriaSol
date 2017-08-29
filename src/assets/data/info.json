@@ -1,0 +1,18 @@
+{
+  "title": "Raspados y Churros Sol",
+  "email": "",
+  "phone": "",
+  "phone_m": "",
+  "website": "http://www.churreriasol.com.mx",
+  "menu_content": {
+    "home": "Inicio",
+    "menu": "Productos",
+    "about": "Nosotros",
+    "contact": "Contactanos"
+  },
+  "place_info": {
+    "open": "11 AM",
+    "closed": " 18 PM",
+    "slogan": "La tradición del sabor y color en un solo producto"
+  }
+}
