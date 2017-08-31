@@ -1,10 +1,11 @@
 body, html {height: 100%}
 .menu {display: none}
 .bgimg {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url("/assets/img/churritos.jpg");
-    min-height: 90%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/assets/img/pizza.jpg"); 
+  min-height: 90%;
+  /*background-color: #FFF8DC;*/
 }
 .animated {
   animation-duration: 3s;

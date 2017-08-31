@@ -8,7 +8,9 @@ import { InfoService } from '../../services/info.service';
 })
 export class MenuComponent{
 
-  constructor ( public _is:InfoService ) { }
+  constructor ( public _is:InfoService ) {
+
+  }
 
 
 }

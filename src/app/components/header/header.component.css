@@ -1,0 +1,28 @@
+header, #er, img{
+  border: 1px solid red;
+}
+
+#home{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.top-head{
+  padding-top: 7em;
+}
+
+.logo{
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+
+.title{
+  text-align: center;
+  font-family: 'Montserrat';
+  word-break: normal;
+  color: black;
+}
+
+.name{
+  padding-top: 7em;
+}
